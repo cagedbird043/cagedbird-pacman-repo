@@ -26,7 +26,7 @@ sudo pacman -S sing-box-ref1nd
 
 ## 🏗️ 架构说明
 
-- **编译源**: [sing-box-auto-build-ci](https://github.com/cagedbird043/sing-box-auto-build-ci)
+- **编译源**: [sing-box-auto-build-ci](https://github.com/Mice-Tailor-Infra/sing-box-auto-build-ci)
 - **加速链路**: GitHub Pages -> **Tencent EdgeOne (Anycast)** -> End User
 - **微架构优化**:
   - `x86_64`: 默认打包 **v3** 等级指令集优化版。
